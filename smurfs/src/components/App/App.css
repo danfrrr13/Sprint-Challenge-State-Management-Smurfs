@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: #0000A0;
+  color: #fff;
+}
+
+.Smurfs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+  background-color: #62cdfd;
+}
+
+.Smurf {
+  margin: 5px;
+}
+
+.SmurfForm {
+  padding: 10px;
+}
